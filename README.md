@@ -40,21 +40,28 @@
 - 19 -> Golden Boon (hotkey 4)
 - 20 -> Particle Acceleration (hotkey 5)
 
-<img src="skill_ui_guide.png" />
+<img src="scholar/skill_ui_guide.png" />
+![[skill_ui_guide.png]]
 
 ## Skill Add-ons
 ### PvE
 
 <img src="scholar_pve_addons.PNG" />
+![[scholar_pve_addons.PNG]]
 
 ### PvP - 1v1
+- Hammer Punch, Hammer in the Knee, Golden Traj are all part of the pre-buff combo when someone is on the ground
+- Giant leap works with golden thunder to apply addons
+- Try to hit people with w+f (one small step) to proc cast speed and dr
 
 <img src="scholar_pvp_1v1_addons.PNG" />
+
+![[scholar_pvp_1v1_addons.PNG]]
 
 ### PvP - NodeWar
 
 <img src="scholar_pvp_nodewar_addons.PNG" />
-
+![[scholar_pvp_nodewar_addons.PNG]]
 ## Movement
 - w+c > c
 - shift+q
@@ -67,9 +74,9 @@
 ## CC's
 
 - Knockdown
-	- Drop Kick (f)
-	- Golden Blockade (e after hammer in the Knee (w+e))
-	- Golden Thunder (spacebar)
+	- Drop Kick (f) - Unprotected
+	- Golden Blockade (e after hammer in the Knee (w+e)) - Unprotected
+	- Golden Thunder (spacebar) - Super Armor
 - Stiffness
 	- Hammer Throw (s+f)
 	- Gravity Rush (shift+x)
@@ -134,7 +141,7 @@
 
 - Cancels
 	- Make sure you have spacebar or c to cancel out of Hammer Spin (shift+c)
-		- You can bait grabs in shift+c and instantly spacebar to iframe it and possibly kd
+		- You can bait grabs in shift+c and instantly spacebar to iframe it and possibly kd, after iframe changes it's a pretty tight window, so probably not safe
 	- Always cancel out of the end of the magnus with c, it's too slow otherwise
 	- Hammer Smash (shift+lmb) second half for a quick catch attempt, can also cancel with a backdash
 	- shift+q over someones head and canceling with spacebar while turning your camera 180 can disorient people
