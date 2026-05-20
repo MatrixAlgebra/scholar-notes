@@ -40,7 +40,7 @@
 - 19 -> Golden Boon (hotkey 4)
 - 20 -> Particle Acceleration (hotkey 5)
 
-<img src="scholar/skill_ui_guide.png" />
+<img src="skill_ui_guide.png" />
 ![[skill_ui_guide.png]]
 
 ## Skill Add-ons
