@@ -62,6 +62,7 @@
 
 <img src="scholar_pvp_nodewar_addons.PNG" />
 ![[scholar_pvp_nodewar_addons.PNG]]
+
 ## Movement
 - w+c > c
 - shift+q
