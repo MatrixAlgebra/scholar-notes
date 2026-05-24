@@ -1,4 +1,4 @@
-# Matrix's Scholar Notes
+ # Matrix's Scholar Notes
 
 ## Core: Hammer Smash
 
@@ -152,6 +152,7 @@
 - Movement
 	- If you randomly get a cc but are too far away you can Gravity Rush (shift+x) to close distance and possibly stiff
 	- You can camera turn the second half of Hammer Rush (w+c)
+    - w+f > lmb is a long engage can be a replacement for shift q
 - Lingers and SA
 	- You can linger shift+s for a longer iframe
 	- s+f (hold) is unprot at the start buff but lingers a long time
